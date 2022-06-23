@@ -1,6 +1,6 @@
 # PhD_defense
 
-Hi welcome to the information page of Abhinandan Devaprasad's PhD defence.
+Hello world! welcome to the information page of Abhinandan Devaprasad's PhD defence.
 
 The defence will take place on Wednesday June 29th, 2022 at 12:15 Hrs.
 
